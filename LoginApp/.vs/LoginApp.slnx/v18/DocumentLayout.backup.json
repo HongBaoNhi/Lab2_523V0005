@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|c:\\users\\asus\\onedrive\\desktop\\523v0005\\lab2\\loginapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|c:\\users\\asus\\onedrive\\desktop\\523v0005\\lab2\\loginapp\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|solutionrelative:studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|c:\\users\\asus\\onedrive\\desktop\\523v0005\\lab2\\loginapp\\instructorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|solutionrelative:instructorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|c:\\users\\asus\\onedrive\\desktop\\523v0005\\lab2\\loginapp\\instructorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|solutionrelative:instructorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|c:\\users\\asus\\onedrive\\desktop\\523v0005\\lab2\\loginapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|c:\\users\\asus\\onedrive\\desktop\\523v0005\\lab2\\loginapp\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|solutionrelative:departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|c:\\users\\asus\\onedrive\\desktop\\523v0005\\lab2\\loginapp\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|solutionrelative:departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|c:\\users\\asus\\onedrive\\desktop\\523v0005\\lab2\\loginapp\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|solutionrelative:studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|c:\\users\\asus\\onedrive\\desktop\\523v0005\\lab2\\loginapp\\coursesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|solutionrelative:coursesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|c:\\users\\asus\\onedrive\\desktop\\523v0005\\lab2\\loginapp\\coursesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|solutionrelative:coursesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|c:\\users\\asus\\onedrive\\desktop\\523v0005\\lab2\\loginapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|c:\\users\\asus\\onedrive\\desktop\\523v0005\\lab2\\loginapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|c:\\users\\asus\\onedrive\\desktop\\523v0005\\lab2\\loginapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|c:\\users\\asus\\onedrive\\desktop\\523v0005\\lab2\\loginapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61D1943F-8DBD-4D41-A692-20D9051B2A35}|LoginApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:03:46.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\StudentsForm.cs",
+              "RelativeToolTip": "StudentsForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAMwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:09:24.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:01:07.591Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstructorsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\InstructorsForm.cs",
+              "RelativeDocumentMoniker": "InstructorsForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\InstructorsForm.cs [Design]",
+              "RelativeToolTip": "InstructorsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:41:36.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstructorsForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\InstructorsForm.cs",
+              "RelativeDocumentMoniker": "InstructorsForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\InstructorsForm.cs",
+              "RelativeToolTip": "InstructorsForm.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAWwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:43:17.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\DepartmentsForm.cs",
+              "RelativeDocumentMoniker": "DepartmentsForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\DepartmentsForm.cs [Design]",
+              "RelativeToolTip": "DepartmentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:48:14.278Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\DepartmentsForm.cs",
+              "RelativeDocumentMoniker": "DepartmentsForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\DepartmentsForm.cs",
+              "RelativeToolTip": "DepartmentsForm.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAWwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:49:32.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\StudentsForm.cs [Design]",
+              "RelativeToolTip": "StudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:05:14.846Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoursesForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\CoursesForm.cs",
+              "RelativeDocumentMoniker": "CoursesForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\CoursesForm.cs",
+              "RelativeToolTip": "CoursesForm.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwFsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:36:51.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoursesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\CoursesForm.cs",
+              "RelativeDocumentMoniker": "CoursesForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\CoursesForm.cs [Design]",
+              "RelativeToolTip": "CoursesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:32:06.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:14:48.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T06:08:46.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-05T06:07:25.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\523V0005\\Lab2\\LoginApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T06:01:45.946Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

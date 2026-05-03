@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\obj\Debug\LoginApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\obj\Debug\LoginApp.Form1.resources
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\obj\Debug\LoginApp.MainForm.resources
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\obj\Debug\LoginApp.StudentsForm.resources
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\obj\Debug\LoginApp.CoursesForm.resources
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\obj\Debug\LoginApp.InstructorsForm.resources
+C:\Users\ASUS\OneDrive\Desktop\523V0005\Lab2\LoginApp\obj\Debug\LoginApp.DepartmentsForm.resources
